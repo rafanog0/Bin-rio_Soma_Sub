@@ -1,4 +1,4 @@
-# Soma e Subtração de binários
+# Soma e subtração de binários
 
 Esse projeto implementa as operações de soma e subtração utilizando apenas operadores lógicos criados a partir  da opereação lógica "NAND" 
 ## Entrada
